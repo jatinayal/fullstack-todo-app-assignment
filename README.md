@@ -55,13 +55,29 @@ Shows: Login, registration, creating todos, editing, filtering, completing tasks
 
 ##  Requirements Met
 
--  Only TypeScript used (frontend + backend)  
 -  All major features implemented  
 -  Error handling & logging  
 -  Clean folder structure  
 -  Fully responsive UI  
 
 ---
+## How I would scale this app for production
+
+Add caching
+
+Add rate limiting
+
+Add Docker
+
+Add microservice structure
+
+Add CDN
+
+Add logging
+
+Add env-based config
+
+Add pagination
 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
